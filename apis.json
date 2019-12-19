@@ -1,0 +1,79 @@
+{
+    "name": "Team Skimlinks",
+    "description": "Skimlinks helps publishers monetize editorial content through automated affiliate links for products. Sign up today and connect to 24,000 merchants!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/933-team-skimlinks.jpg",
+    "tags": [
+        "affiliates",
+        "have api",
+        "javascript",
+        "links",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/team-skimlinks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Team Skimlinks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/933-team-skimlinks.jpg",
+            "humanURL": "http:\/\/skimlinks.com\/skimlinks",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/team-skimlinks-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/skimlinks.com\/skimlinks"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.skimlinks.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.skimlinks.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/skimlinks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/skimlinks"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/skimlinks-pi.3scale.net\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@skimlinks.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpo@skimlinks.com"
+        },
+        {
+            "type": "Email",
+            "url": "accounts@skimlinks.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Skimlinks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/skimlinks"
+        }
+    ]
+}
