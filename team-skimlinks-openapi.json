@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Team Skimlinks",
+        "description": "",
+        "termsOfService": ""
+    },
+    "servers": [
+        "https"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
